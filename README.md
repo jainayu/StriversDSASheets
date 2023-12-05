@@ -18,5 +18,5 @@ This repository is my coding journey through the comprehensive Strivers A2Z DSA 
     -   [Step 1.2: Build-up Logical Thinking](./Step1/Step1.2/Patterns)
     -   Step 1.3: Learn STL/Java-Collections or similar thing in your language
     -   [Step 1.4: Know Basic Maths](./Step1/Step1.4/)
-    -   Step 1.5: Learn Basic Recursion
+    -   [Step 1.5: Learn Basic Recursion](./Step1/Step1.5/)
     -   Step 1.6: Learn Basic Hashing
