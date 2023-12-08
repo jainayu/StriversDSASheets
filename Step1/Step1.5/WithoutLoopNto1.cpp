@@ -1,3 +1,5 @@
+// https://www.codingninjas.com/studio/problems/n-to-1-without-loop_8357243
+
 void giveArray(int n, vector<int> &vec) {
     if (n == 0) {
         return;

@@ -1,5 +1,8 @@
 // Factorial Numbers Not Greater Than N
-void getFactorials(long long n, vector<long long>& numbers, long long curr, int index) {
+// https://www.codingninjas.com/studio/problems/factorial-numbers-not-greater-than-n_8365435
+
+void getFactorials(long long n, vector<long long> &numbers, long long curr,
+                   int index) {
     if (curr > n) {
         return;
     }
