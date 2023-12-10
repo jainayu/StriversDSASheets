@@ -32,6 +32,7 @@ void insertionSort(vector<int> &v) {
 }
 
 int main() {
+    cout << "----- Insertion Sort -----" << endl;
     vector<int> v1 = {13, 46, 24, 52, 20, 9};
     printBeforeVector(v1);
     insertionSort(v1);

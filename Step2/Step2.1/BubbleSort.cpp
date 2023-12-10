@@ -39,6 +39,7 @@ void bubbleSort(vector<int> &v) {
 }
 
 int main() {
+    cout << "----- Bubble Sort -----" << endl;
     vector<int> v1 = {13, 46, 24, 52, 20, 9};
     printBeforeVector(v1);
     bubbleSort(v1);

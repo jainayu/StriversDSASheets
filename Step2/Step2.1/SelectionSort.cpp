@@ -34,6 +34,7 @@ void selectionSort(vector<int> &v) {
 }
 
 int main() {
+    cout << "----- Selection Sort -----" << endl;
     vector<int> v1 = {13, 46, 24, 52, 20, 9};
     printBeforeVector(v1);
     selectionSort(v1);
