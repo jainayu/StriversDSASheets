@@ -19,4 +19,9 @@ This repository is my coding journey through the comprehensive Strivers A2Z DSA 
     -   Step 1.3: Learn STL/Java-Collections or similar thing in your language
     -   [Step 1.4: Know Basic Maths](./Step1/Step1.4/)
     -   [Step 1.5: Learn Basic Recursion](./Step1/Step1.5/)
-    -   Step 1.6: Learn Basic Hashing
+    -   [Step 1.6: Learn Basic Hashing](./Step1/Step1.6/)
+
+-   Step 2: Learn Important Sorting Techniques
+
+    -   Step 2.1: Sorting-I : Selection Sort, Bubble Sort and Insertion Sort
+    -   Step 2.2: Sorting-II: Merge Sort, Recursive Bubble and Insertion Sort, and Quick Sort
