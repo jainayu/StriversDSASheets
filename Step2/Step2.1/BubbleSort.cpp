@@ -24,10 +24,15 @@ void bubbleSort(vector<int> &v) {
     int size = v.size();
 
     for (int i = size - 1; i > 0; i--) {
+        int flag = 0; // to improve the best case, when array is already sorted
         for (int j = 0; j < i; j++) {
             if (v[j] > v[j + 1]) {
                 swap(v[j], v[j + 1]);
+                flag = 1;
             }
+        }
+        if (flag == 0) {
+            break;
         }
     }
     return;
