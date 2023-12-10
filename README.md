@@ -24,4 +24,4 @@ This repository is my coding journey through the comprehensive Strivers A2Z DSA 
 -   Step 2: Learn Important Sorting Techniques
 
     -   [Step 2.1: Sorting-I : Selection Sort, Bubble Sort and Insertion Sort](./Step2/Step2.1/)
-    -   Step 2.2: Sorting-II: Merge Sort, Recursive Bubble and Insertion Sort, and Quick Sort
+    -   [Step 2.2: Sorting-II: Merge Sort, Recursive Bubble and Insertion Sort, and Quick Sort](./Step2/Step2.2/)
