@@ -1,3 +1,5 @@
+// https://www.codingninjas.com/studio/problems/longest-successive-elements_6811740
+
 #include <bits/stdc++.h>
 using namespace std;
 
