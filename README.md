@@ -29,4 +29,4 @@ This repository is my coding journey through the comprehensive Strivers A2Z DSA 
 -   Step 3: Solve Problems on Arrays [Easy -> Medium -> Hard]
     -   [Step 3.1: Easy](./Step3/Step3.1/)
     -   [Step 3.2: Medium](./Step3/Step3.2/)
-    -   Step 3.3: Hard
+    -   [Step 3.3: Hard](./Step3/Step3.3/)
