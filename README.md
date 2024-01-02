@@ -27,6 +27,12 @@ This repository is my coding journey through the comprehensive Strivers A2Z DSA 
     -   [Step 2.2: Sorting-II: Merge Sort, Recursive Bubble and Insertion Sort, and Quick Sort](./Step2/Step2.2/)
 
 -   Step 3: Solve Problems on Arrays [Easy -> Medium -> Hard]
+
     -   [Step 3.1: Easy](./Step3/Step3.1/)
     -   [Step 3.2: Medium](./Step3/Step3.2/)
     -   [Step 3.3: Hard](./Step3/Step3.3/)
+
+-   Step 4: Binary Search [1D, 2D Arrays, Search Space]
+    -   Step 4.1: BS on 1D Arrays
+    -   Step 4.2: BS on Answers
+    -   Step 4.3: BS on 2D Arrays
