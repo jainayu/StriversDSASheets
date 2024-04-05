@@ -34,5 +34,5 @@ This repository is my coding journey through the comprehensive Strivers A2Z DSA 
 
 -   Step 4: Binary Search [1D, 2D Arrays, Search Space]
     -   [Step 4.1: BS on 1D Arrays](./Step4/Step4.1/)
-    -   Step 4.2: BS on Answers
-    -   Step 4.3: BS on 2D Arrays
+    -   [Step 4.2: BS on Answers](./Step4/Step4.2/)
+    -   [Step 4.3: BS on 2D Arrays](./Step4/Step4.3/)
