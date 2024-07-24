@@ -4,8 +4,8 @@
 using namespace std;
 
 class Solution {
-public:
-    int findKthPositiveBruteForce1(vector<int>& arr, int k) {
+  public:
+    int findKthPositiveBruteForce1(vector<int> &arr, int k) {
         int cnt = 0;
         int n = 1;
         int size = arr.size();
@@ -29,7 +29,7 @@ public:
         return n;
     }
 
-    int findKthPositiveBruteForce2(vector<int>& arr, int k) {
+    int findKthPositiveBruteForce2(vector<int> &arr, int k) {
         int n = arr.size();
 
         for (int i = 0; i < n; i++) {
@@ -41,8 +41,8 @@ public:
         }
         return k;
     }
-    
-    int findKthPositiveOptimal(vector<int>& arr, int k) {
+
+    int findKthPositiveOptimal(vector<int> &arr, int k) {
         int n = arr.size();
 
         int low = 0, high = n - 1;
