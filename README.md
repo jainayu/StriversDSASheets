@@ -2,7 +2,9 @@
 
 ## 📚 Tracking my progress through the Striver's DSA Sheets
 
-This repository documents my coding journey through Striver’s comprehensive DSA sheets. I am currently working on two key sheets: [Striver’s SDE Sheet](https://takeuforward.org/interviews/strivers-sde-sheet-top-coding-interview-problems) and [Striver’s A2Z Sheet](https://takeuforward.org/strivers-a2z-dsa-course/strivers-a2z-dsa-course-sheet-2). While both sheets contain some duplicate questions, each provides a unique perspective on problem-solving. My aim is to improve my understanding of Data Structures and Algorithms by following this structured curriculum and enhancing my problem-solving skills.
+This repository documents my coding journey through Striver’s comprehensive DSA sheets. I am currently working on two key sheets: [Striver’s SDE Sheet](https://takeuforward.org/interviews/strivers-sde-sheet-top-coding-interview-problems) and [Striver’s A2Z Sheet](https://takeuforward.org/strivers-a2z-dsa-course/strivers-a2z-dsa-course-sheet-2).
+
+While both sheets contain some duplicate questions, each provides a unique perspective on problem-solving. My aim is to improve my understanding of Data Structures and Algorithms by following this structured curriculum and enhancing my problem-solving skills.
 
 ## 🌟 Highlights:
 
@@ -16,7 +18,7 @@ This repository documents my coding journey through Striver’s comprehensive DS
     <summary>Striver’s SDE Sheet</summary>
 </details>
 
-<details open>
+<details>
     <summary>Striver’s A2Z Sheet</summary>
 
 -   Step 1: Learn the basics
