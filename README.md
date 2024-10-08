@@ -1,16 +1,23 @@
-# Strivers A2Z DSA Course/Sheet
+# Strivers A2Z DSA Sheets
 
-## 📚 Tracking my progress through the [Strivers A2Z DSA Course/Sheet](https://takeuforward.org/strivers-a2z-dsa-course/strivers-a2z-dsa-course-sheet-2/)!
+## 📚 Tracking my progress through the Striver's DSA Sheets
 
-This repository is my coding journey through the comprehensive Strivers A2Z DSA Course/Sheet. Here, I'm committed to mastering Data Structures and Algorithms, leveraging the structured curriculum to enhance my problem-solving skills.
+This repository documents my coding journey through Striver’s comprehensive DSA sheets. I am currently working on two key sheets: [Striver’s SDE Sheet](https://takeuforward.org/interviews/strivers-sde-sheet-top-coding-interview-problems) and [Striver’s A2Z Sheet](https://takeuforward.org/strivers-a2z-dsa-course/strivers-a2z-dsa-course-sheet-2). While both sheets contain some duplicate questions, each provides a unique perspective on problem-solving. My aim is to improve my understanding of Data Structures and Algorithms by following this structured curriculum and enhancing my problem-solving skills.
 
 ## 🌟 Highlights:
 
--   📝 Log and track my solutions to problems from the Strivers A2Z DSA Course/Sheet.
+-   📝 Log and track my solutions to problems from the Strivers DSA Sheets.
 -   🧩 Building a solid foundation in Data Structures and Algorithms.
 -   📈 Documenting progress and learning curves along the way.
 
 ## 🚀 Journey Chronicle:
+
+<details>
+    <summary>Striver’s SDE Sheet</summary>
+</details>
+
+<details>
+    <summary>Striver’s A2Z Sheet</summary>
 
 -   Step 1: Learn the basics
 
@@ -36,3 +43,5 @@ This repository is my coding journey through the comprehensive Strivers A2Z DSA 
     -   [Step 4.1: BS on 1D Arrays](./Step4/Step4.1/)
     -   [Step 4.2: BS on Answers](./Step4/Step4.2/)
     -   [Step 4.3: BS on 2D Arrays](./Step4/Step4.3/)
+
+</details>
