@@ -6,3 +6,4 @@
     -   [Set Zero Matrix](./Day1_Arrays/ZeroMatrix.cpp)
     -   [Pascal's Triangle](./Day1_Arrays/PrintPascalTriangle.cpp)
     -   [Maximum Sub-array](./Day1_Arrays/MaximumSubarray.cpp)
+    -   [Next Permutation](./Day1_Arrays/NextPermutation.cpp)
