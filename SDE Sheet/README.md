@@ -5,3 +5,4 @@
 -   [Day 1: Array](./Day1_Arrays/)
     -   [Set Zero Matrix](./Day1_Arrays/ZeroMatrix.cpp)
     -   [Pascal's Triangle](./Day1_Arrays/PrintPascalTriangle.cpp)
+    -   [Maximum Sub-array](./Day1_Arrays/MaximumSubarray.cpp)
