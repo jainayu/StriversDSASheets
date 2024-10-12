@@ -2,8 +2,8 @@
 
 ## 🚀 Journey Chronicle:
 
-<details>
-<summary><a href="./Day1_Arrays/">Day 1: Array</a><summary>
+<details open>
+<summary><a href="./Day1_Arrays/">Day 1: Array</a></summary>
 
 -   [Set Zero Matrix](./Day1_Arrays/ZeroMatrix.cpp)
 -   [Pascal's Triangle](./Day1_Arrays/PrintPascalTriangle.cpp)
