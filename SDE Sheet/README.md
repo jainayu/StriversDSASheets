@@ -3,12 +3,37 @@
 ## 🚀 Journey Chronicle:
 
 <details open>
-<summary><a href="./Day1_Arrays/">Day 1: Array</a></summary>
+<summary><a href="./Day1_Arrays/"><strong>Day 1: Arrays</strong></a></summary>
 
 -   [Set Zero Matrix](./Day1_Arrays/ZeroMatrix.cpp)
 -   [Pascal's Triangle](./Day1_Arrays/PrintPascalTriangle.cpp)
 -   [Maximum Sub-array](./Day1_Arrays/MaximumSubarray.cpp)
 -   [Next Permutation](./Day1_Arrays/NextPermutation.cpp)
 -   [Sort Colors](./Day1_Arrays/SortColors.cpp)
+
+</details>
+
+<details>
+<summary><a href="./Day2_ArraysII/"><strong>Day 2: Arrays Part-II</strong></a></summary>
+
+</details>
+
+<details>
+<summary><a href="./Day3_ArraysIII/"><strong>Day 3: Arrays Part-III</strong></a></summary>
+
+</details>
+
+<details>
+<summary><a href="./Day4_ArraysIV/"><strong>Day 4: Arrays Part-IV</strong></a></summary>
+
+</details>
+
+<details>
+<summary><a href="./Day5_LinkedList/"><strong>Day 5: Linked List</strong></a></summary>
+
+</details>
+
+<details>
+<summary><a href="./Day6_LinkedListII/"><strong>Day 6: Linked List Part-II</strong></a></summary>
 
 </details>
