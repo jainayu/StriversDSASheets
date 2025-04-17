@@ -1,5 +1,24 @@
 // https://leetcode.com/problems/next-permutation/description/
 
+/*
+    1234
+    1243
+    1324
+    1342
+    1423
+    1432
+    2134
+    2143
+    2314
+    2341
+    2413
+    2431
+    3124
+    3142
+    3214
+    3241
+*/
+
 #include <algorithm>
 #include <iostream>
 #include <vector>

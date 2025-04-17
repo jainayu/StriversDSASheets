@@ -17,6 +17,8 @@
 <details>
 <summary><a href="./Day2_ArraysII/"><strong>Day 2: Arrays Part-II</strong></a></summary>
 
+-   [Rotate Matrix](./Day2_Arrays_Part_II/RotateMatrix.cpp)
+
 </details>
 
 <details>
