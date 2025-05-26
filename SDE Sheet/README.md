@@ -19,6 +19,7 @@
 
 -   [Rotate Matrix](./Day2_Arrays_Part_II/RotateMatrix.cpp)
 -   [Merge Intervals](./Day2_Arrays_Part_II/MergeIntervals.cpp)
+-   [Merge Sorted Array](./Day2_Arrays_Part_II/MergeSortedArray.cpp)
 
 </details>
 
