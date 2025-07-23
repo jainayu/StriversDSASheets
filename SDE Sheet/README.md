@@ -20,6 +20,9 @@
 -   [Rotate Matrix](./Day2_Arrays_Part_II/RotateMatrix.cpp)
 -   [Merge Intervals](./Day2_Arrays_Part_II/MergeIntervals.cpp)
 -   [Merge Sorted Array](./Day2_Arrays_Part_II/MergeSortedArray.cpp)
+-   [Find the duplicate number](./Day2_Arrays_Part_II/FindDuplicateNumber.cpp)
+-   [Repeat and Missing Number]()
+-   [Inversion of Array](./Day2_Arrays_Part_II/CountInversions.cpp)
 
 </details>
 
