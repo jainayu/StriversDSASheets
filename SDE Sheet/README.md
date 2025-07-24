@@ -15,7 +15,7 @@
 </details>
 
 <details>
-<summary><a href="./Day2_ArraysII/"><strong>Day 2: Arrays Part-II</strong></a></summary>
+<summary><a href="./Day2_Arrays_Part_II"><strong>Day 2: Arrays Part-II</strong></a></summary>
 
 -   [Rotate Matrix](./Day2_Arrays_Part_II/RotateMatrix.cpp)
 -   [Merge Intervals](./Day2_Arrays_Part_II/MergeIntervals.cpp)
@@ -27,7 +27,7 @@
 </details>
 
 <details>
-<summary><a href="./Day3_ArraysIII/"><strong>Day 3: Arrays Part-III</strong></a></summary>
+<summary><a href="./Day3_Arrays_Part_III"><strong>Day 3: Arrays Part-III</strong></a></summary>
 
 -   [Search 2D Matrix](./Day3_Arrays_Part_III/Search2DMatrix.cpp)
 -   [Pow(x, n)](<./Day3_Arrays_Part_III/Pow(x,n).cpp>>)
