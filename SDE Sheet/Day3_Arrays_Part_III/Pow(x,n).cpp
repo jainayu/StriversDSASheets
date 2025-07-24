@@ -11,9 +11,12 @@ class Solution {
             return myPow(x * x, n / 2);
         }
 
-        // If n is odd then we will multiply with an extra x or 1/x to
-        // compensate. If n is negative we will multiply with x else we will
+        // If n is odd then we will multiply with an extra x or 1/x
+        // If n is negative we will multiply with x else we will
         // multiply with 1/x.
+
+        // On side note, this multiplication ensures the correct value
+        // propagates as recursion unwinds as base case will always return 1.
         return myPow(x * x, n / 2) * (n > 0 ? x : (1 / x));
     }
 };
