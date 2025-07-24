@@ -30,7 +30,8 @@
 <summary><a href="./Day3_Arrays_Part_III"><strong>Day 3: Arrays Part-III</strong></a></summary>
 
 -   [Search 2D Matrix](./Day3_Arrays_Part_III/Search2DMatrix.cpp)
--   [Pow(x, n)](./Day3_Arrays_Part_III/Pow(x,n).cpp)
+-   [Pow(x, n)](<./Day3_Arrays_Part_III/Pow(x,n).cpp>)
+-   [Majority Element](./Day3_Arrays_Part_III/MajorityElement.cpp)
 
 </details>
 
